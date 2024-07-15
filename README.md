@@ -1,2 +1,3 @@
 # abcd-demo
-This is my first git repository
+This is a git repository
+Author: anu
